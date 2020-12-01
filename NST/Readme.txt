@@ -11,3 +11,21 @@
 5. run and output will come in output folder
 
 6. Remember it takes time according to iteration ,, so don't lose patience.:D
+
+
+
+
+results:
+
+
+
+
+![](https://github.com/manvirag982/ML/blob/main/NST/Niceone.jpg)
+
+![](https://github.com/manvirag982/ML/blob/main/NST/collage.jpg)
+
+![](https://github.com/manvirag982/ML/blob/main/NST/collage.jpg)
+
+
+
+
