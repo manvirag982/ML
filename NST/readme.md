@@ -33,9 +33,6 @@ results:
 
 
 
-
-![](https://github.com/manvirag982/ML/blob/main/NST/collage.jpg)
-
 ![](https://github.com/manvirag982/ML/blob/main/NST/fdsf.jpg)
 
 
