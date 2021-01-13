@@ -1,0 +1,1 @@
+https://datascience.stackexchange.com/questions/37159/understanding-the-effect-of-num-words-of-tokenizer-in-keras
