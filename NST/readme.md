@@ -52,3 +52,7 @@
 
 
 ![](https://github.com/manvirag982/ML/blob/main/NST/new.jpg)
+
+
+![Screenshot 2021-07-08 235358](https://user-images.githubusercontent.com/54881553/124972307-d07bb480-e047-11eb-8928-aeffc4ea4512.png)
+
